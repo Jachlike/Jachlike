@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jachlike
 - 👀 I’m interested in Data Analysis and Cloud Computing and everything AI and Deep Learning.
 - 🌱 I’m currently learning Data Analytics 
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on dashboards and language models.
 - 📫 How to reach me JACHIKE.UWAKWE@ICLOUD.COM
 - 😄 Pronouns: ...
 - ⚡ Fun fact: everything rhymes with orange
