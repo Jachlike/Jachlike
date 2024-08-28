@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jachlike
+- 👋 Hi, I’m @Jachike
 - 👀 I’m interested in Data Analysis and Cloud Computing and everything AI and Deep Learning.
 - 🌱 I’m currently learning Data Analytics 
 - 💞️ I’m looking to collaborate on dashboards and language models.
