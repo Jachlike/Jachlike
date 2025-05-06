@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ Anselm
-- 👀 I’m interested in Data Analysis and Cloud Computing.
-- 🌱 
-- 💞️ I’m looking to work on financial and game data.
+- 👀 Interested in Data Analysis and Cloud Computing.
+- 🌱 A tired leo
+- 💞️Currently working on financial and game data.
 - 📫 How to reach me JACHIKE.UWAKWE@ICLOUD.COM
 - 😄 Pronouns: ...
 - ⚡ Fun fact: everything rhymes with orange
