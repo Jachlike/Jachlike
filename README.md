@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jachike
-- 👀 I’m interested in Data Analysis and Cloud Computing and everything AI and Deep Learning.
+- 👋 Hi, I’m @ Anselm
+- 👀 I’m interested in Data Analysis and Cloud Computing.
 - 🌱 I’m currently learning Data Analytics 
-- 💞️ I’m looking to collaborate on dashboards and language models.
+- 💞️ I’m looking to work on financial and game data.
 - 📫 How to reach me JACHIKE.UWAKWE@ICLOUD.COM
 - 😄 Pronouns: ...
 - ⚡ Fun fact: everything rhymes with orange
