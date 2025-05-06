@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Anselm
 - 👀 I’m interested in Data Analysis and Cloud Computing.
-- 🌱 I’m currently learning Data Analytics 
+- 🌱 
 - 💞️ I’m looking to work on financial and game data.
 - 📫 How to reach me JACHIKE.UWAKWE@ICLOUD.COM
 - 😄 Pronouns: ...
