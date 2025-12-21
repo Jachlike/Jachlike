@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Anselm
 - 👀 I'm a SQL Developer. I write complex SQL Queries. I desgin database schemas this includes tables, relationships and indexes. My goal is to ensure data integrity as database developer.
-- - I also handle data related tasks such as Data Wrangling and Data Modelling.
+- I also handle data related tasks such as Data Wrangling and Data Modelling.
 - 🌱 A tired leo
 - 💞️Currently working on a few projects with specific data tailored to specific business processes like financial and game data likewise real world healthcare operational events particularly the NHS. 
 - 🍘 I like flajacks 
