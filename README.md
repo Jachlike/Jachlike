@@ -6,7 +6,7 @@
 - 🍘 I like flajacks 
 - All projects can be found in my repository.
 - My tech stack is Python and SQL.
-- Databases used are Postgresql and MySQL.
+- Database Management Systems used are Postgresql and MySQL.
 - 📫 How to reach me JACHIKE.UWAKWE@ICLOUD.COM
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: everything rhymes with orange
